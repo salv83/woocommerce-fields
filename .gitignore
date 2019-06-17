@@ -1,0 +1,9 @@
+.htaccess
+wp-config.php
+wp-config-sample.php
+.buildpath
+.project
+.settings/
+wp-content/uploads/
+wp-content/themes/storefront-child/public/js/bundle.js
+wp-content/themes/storefront-child/node_modules/
